@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything technology!! Designing for websites, creating a mobile applications and seeing how well it is made for potential users! 
 - 🌱 I’m currently learning a whole new world of coding (HTML/CSS/JQuery/Java)...
 - 💞️ I’m looking to collaborate on understanding more into HTML and CSS right now for Web Design, hoping to get more into mobile application coding after!
-- 📫 How to reach me: Email: carlajayne7@outlook.com | Instagram: @cjayne.designs | LinkedIn: https://www.linkedin.com/in/carlajayneramos/
+- 📫 How to reach me: Email: carlajayne7@outlook.com | Instagram: @ux_cjayne | LinkedIn: https://www.linkedin.com/in/carlajayneramos/
 
 <!---
 carlajayne/carlajayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
